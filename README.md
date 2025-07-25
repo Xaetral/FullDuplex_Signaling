@@ -1,4 +1,4 @@
-# FullDuplex_Signaling
+# FullDuplex Signaling
 
 It is possible to receive and send a signal at the same time on the same transmission line by subtracting the the sent one to the received one.  
 
